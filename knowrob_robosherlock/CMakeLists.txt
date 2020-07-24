@@ -3,7 +3,7 @@ project(knowrob_robosherlock)
 
 
 find_package(catkin REQUIRED rosprolog
-             knowrob_common knowrob_actions srdl)
+             knowrob knowrob_actions srdl)
 
 catkin_package()
 

@@ -14,8 +14,7 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   
-  <depend>knowrob_common</depend>
-  <depend>knowrob_vis</depend>
+  <depend>knowrob</depend>
   <depend>knowrob_actions</depend>
   <depend>srdl</depend>
 
